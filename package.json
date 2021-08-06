@@ -22,6 +22,6 @@
   "homepage": "https://github.com/adibenmati/node-red-mongo-storage-plugin",
   "dependencies": {
     "mongodb": "^3.6.11",    
-    "when": "^3.7.9"
+    "when": "^3.7.8"
   }
 }
